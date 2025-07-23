@@ -9,6 +9,9 @@
 </p>
 <img src="assets/workbank.png" style="width: 100%; height: auto" />
 
+**Latest News** 🔥
+- [2025/07] Our project is featured by <a href="https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence">Stanford HAI</a> and <a href="https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/">Forbes</a> - check out the coverage!
+
 ## Overview
 
 **WORKBank** (AI Agent Worker Outlook and Readiness Knowledge Bank) is a database that captures worker desire and technological capability of AI agents for occupational tasks.

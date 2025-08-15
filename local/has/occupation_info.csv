@@ -1,0 +1,105 @@
+occupation,js_distance,worker_desire_dominant_level,capability_dominant_level
+Customer Service Representatives,0.507620091147604,2,0
+Medical and Health Services Managers,0.19642218562052266,1,1
+Mechanical Engineers,0.39727767283431914,1,2
+Editors,0.45306436928463356,4,3
+Computer Network Support Specialists,0.2550690362865373,1,0
+Computer Programmers,0.21047997510279,2,0
+Accountants and Auditors,0.3830753340027595,2,1
+Information Technology Project Managers,0.30767487293987883,2,3
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.46799882797721376,3,0
+Computer Systems Engineers/Architects,0.18613965478060163,2,3
+Human Resources Specialists,0.16832842318504507,2,1
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.20463902022079297,1,1
+Clinical Research Coordinators,0.24069612848625507,3,1
+Computer User Support Specialists,0.39479063190020386,2,0
+Credit Counselors,0.1148292296134547,2,2
+Insurance Claims and Policy Processing Clerks,0.24912711868620074,1,1
+Computer and Information Systems Managers,0.29747232213804053,2,2
+Computer Systems Analysts,0.3927396663707108,1,2
+"Production, Planning, and Expediting Clerks",0.17588175438243392,2,2
+Sustainability Specialists,0.11763594530660446,2,1
+"Bookkeeping, Accounting, and Auditing Clerks",0.5262241398046866,1,0
+Software Quality Assurance Analysts and Testers,0.4070868481591992,3,1
+Financial Examiners,0.5692442875560213,3,0
+Management Analysts,0.5051729865993527,3,1
+"Business Teachers, Postsecondary",0.38198768642266495,3,2
+Regulatory Affairs Managers,0.4297890234186251,1,3
+Web Developers,0.40608415679302573,2,1
+Lawyers,0.5253596813533501,2,1
+Media Technical Directors/Managers,0.33013581660932995,2,2
+Financial Quantitative Analysts,0.3657603412946116,2,2
+Purchasing Managers,0.1818970059233636,2,1
+"News Analysts, Reporters, and Journalists",0.31752552943051215,2,1
+Radiologists,0.45198217542918984,3,2
+Power Distributors and Dispatchers,0.8302961801327812,3,2
+Architectural and Civil Drafters,0.2363577859921527,1,2
+Information Security Analysts,0.3643592012804547,2,3
+Mechanical Engineering Technologists and Technicians,0.15044839169854834,1,3
+Biofuels Production Managers,0.5033250234318178,3,1
+Appraisers and Assessors of Real Estate,0.2311184966768344,1,2
+Human Resources Managers,0.4290887196764252,2,0
+Petroleum Engineers,0.21378057724300709,2,3
+Technical Writers,0.36374700043734487,1,2
+Proofreaders and Copy Markers,0.43805233998280446,1,0
+Desktop Publishers,0.2107614256603579,1,2
+Logistics Analysts,0.21929442413845193,2,1
+Personal Financial Advisors,0.3468701174868721,2,2
+Supply Chain Managers,0.24696085926321149,1,1
+Clinical Data Managers,0.31323510403038163,3,3
+Search Marketing Strategists,0.3462842918635176,1,1
+"Architects, Except Landscape and Naval",0.2915190015868603,3,3
+"Securities, Commodities, and Financial Services Sales Agents",0.6146204572044248,1,0
+Budget Analysts,0.20408407280962695,2,1
+Writers and Authors,0.3302222645692199,2,1
+Business Intelligence Analysts,0.29186732542198335,2,1
+Credit Analysts,0.3954244047989843,3,1
+Loan Officers,0.19822805192249063,1,1
+Medical Transcriptionists,0.6745611913879614,1,0
+Legal Secretaries and Administrative Assistants,0.43375736181776364,1,2
+Medical Secretaries and Administrative Assistants,0.39247764905341226,1,1
+Civil Engineers,0.3623477121988021,2,2
+Advertising and Promotions Managers,0.16211492274743416,2,2
+Transportation Planners,0.5589030569866573,2,3
+Online Merchants,0.4411401712457518,1,0
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.2781801386595796,2,1
+Travel Agents,0.5713352138219174,1,0
+Reservation and Transportation Ticket Agents and Travel Clerks,0.3267246765274622,1,2
+Data Entry Keyers,0.4120256074101258,1,1
+Quality Control Systems Managers,0.47198921720185555,2,1
+Video Game Designers,0.4299275432895047,1,3
+Training and Development Specialists,0.4139708863287998,3,2
+Graphic Designers,0.26553528888442796,2,2
+Aerospace Engineers,0.5378519612037355,2,4
+Public Safety Telecommunicators,0.3193262377455564,0,2
+Tax Preparers,0.4222917059343688,2,1
+Judicial Law Clerks,0.25154173047475537,0,1
+Photographers,0.4295543320459937,2,0
+Health Informatics Specialists,0.47040115068200916,1,2
+Producers and Directors,0.32501015828880536,1,3
+Art Directors,0.4202727359644778,3,2
+Financial Managers,0.5183344742311129,2,1
+Librarians and Media Collections Specialists,0.12330832748700697,1,2
+Network and Computer Systems Administrators,0.2815940199876667,1,3
+Bioinformatics Scientists,0.2944412911639189,1,1
+Computer and Information Research Scientists,0.1813980201315709,2,3
+Fundraisers,0.2582837541193374,3,1
+Telemarketers,0.468350585018572,2,1
+Public Relations Specialists,0.5688168483739958,2,3
+Cost Estimators,0.39026065844431196,2,1
+Molecular and Cellular Biologists,0.29864346378311685,2,2
+Compliance Officers,0.3550925372191828,2,1
+Database Administrators,0.30931813534192126,1,1
+Statisticians,0.30451496895230706,2,2
+Biostatisticians,0.3098895322650259,2,1
+Treasurers and Controllers,0.4970218952736608,1,2
+Payroll and Timekeeping Clerks,0.49385461467390607,1,0
+Web Administrators,0.2637230530884135,1,1
+Social Science Research Assistants,0.34029035269553787,2,1
+Mathematicians,0.26510859675225584,2,4
+Quality Control Analysts,0.33693933394175374,2,3
+"Energy Engineers, Except Wind and Solar",0.24519369294111584,2,2
+Precision Agriculture Technicians,0.4491848096524804,3,2
+"Eligibility Interviewers, Government Programs",0.3568360296201551,1,1
+Geographers,0.44985051135358234,3,2
+"Court, Municipal, and License Clerks",0.4240622939194381,1,0
